@@ -1,0 +1,4 @@
+energyLost density StiffnessIncrease
+0.0023	0.007	1.4
+0.0019	0.017	2.8
+0.0020	0.032	4.3

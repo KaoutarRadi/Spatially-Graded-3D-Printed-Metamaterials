@@ -1,0 +1,3 @@
+- Use "combine_points.py" script to shape the data into the correct form. The script "combine_points.py" uses .dat files that contain coordinates and connectivities of the truss (list of elements with their according nodes), then generates a .csv file containing information about each beam/bar of the truss, in the following order per row: start coordinates, length, angle to z-axis, normal vector to rotation angle.
+- Once the "out.csv" datasheet is created, use Truss_import_abqus.py script to define the beam radius, then copy the code into the abaqus console and run.
+- The generated truss will be saved as an .stl file in the pre-defined path in "Truss_import_abaqus.py".
