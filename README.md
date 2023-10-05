@@ -23,7 +23,7 @@ This repository houses the data and resources needed to reproduce the figures fr
 
 ## Simulations
 
-- Simulations were performed using the finite element codes hosted on the mechanics and materials group GitLab. You can find the code at [ae108](https://gitlab.ethz.ch/mechanics-and-materials/).
+- Simulations were performed using the finite element codes hosted on the mechanics and materials group GitLab. You can find the codes at [ae108](https://gitlab.ethz.ch/mechanics-and-materials/).
 - The results derived from these simulations, for each figure, are available in the `data` directory.
 
 ## Experiments
